@@ -1,5 +1,5 @@
-#include "week1/1-two-pointers/sum-of-three-values/sum-of-three-values.h"
+#include "week1/2-fast-and-slow-pointers/happy-number/happy-number.h"
 
 int main() {
-    runSumOfThreeExample();
+    runHappyNumberExample();
 }
