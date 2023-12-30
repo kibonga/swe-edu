@@ -1,5 +1,5 @@
-#include "week1/1-two-pointers/valid-palindrome/valid-palindrome.h"
+#include "week1/1-two-pointers/sum-of-three-values/sum-of-three-values.h"
 
 int main() {
-    runPalindromeExample();
+    runSumOfThreeExample();
 }
