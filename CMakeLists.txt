@@ -11,4 +11,6 @@ add_executable(swe_edu main.cpp
         week1/2-fast-and-slow-pointers/happy-number/happy-number.h
         week1/2-fast-and-slow-pointers/happy-number/happy-number.cpp
         week1/2-fast-and-slow-pointers/linked-list-cycle/linked-list-cycle.h
-        week1/2-fast-and-slow-pointers/linked-list-cycle/linked-list-cycle.cpp)
+        week1/2-fast-and-slow-pointers/linked-list-cycle/linked-list-cycle.cpp
+        week1/3-stacks/remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.h
+        week1/3-stacks/remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.cpp)

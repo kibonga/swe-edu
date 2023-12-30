@@ -1,5 +1,5 @@
-#include "week1/2-fast-and-slow-pointers/linked-list-cycle/linked-list-cycle.h"
+#include "week1/3-stacks/remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.h"
 
 int main() {
-    runLinkedListCycleExample();
+    runRemoveAllAdjacentDuplicatesInString();
 }
