@@ -1,5 +1,5 @@
-#include "week1/2-fast-and-slow-pointers/happy-number/happy-number.h"
+#include "week1/2-fast-and-slow-pointers/linked-list-cycle/linked-list-cycle.h"
 
 int main() {
-    runHappyNumberExample();
+    runLinkedListCycleExample();
 }

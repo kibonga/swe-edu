@@ -9,4 +9,6 @@ add_executable(swe_edu main.cpp
         week1/1-two-pointers/sum-of-three-values/sum-of-three-values.cpp
         week1/1-two-pointers/sum-of-three-values/sum-of-three-values.h
         week1/2-fast-and-slow-pointers/happy-number/happy-number.h
-        week1/2-fast-and-slow-pointers/happy-number/happy-number.cpp)
+        week1/2-fast-and-slow-pointers/happy-number/happy-number.cpp
+        week1/2-fast-and-slow-pointers/linked-list-cycle/linked-list-cycle.h
+        week1/2-fast-and-slow-pointers/linked-list-cycle/linked-list-cycle.cpp)
