@@ -1,5 +1,5 @@
-#include "week1/3-stacks/remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.h"
+#include "week1/3-stacks/implement-queue-using-stack/implement-queue-using-stack.h"
 
 int main() {
-    runRemoveAllAdjacentDuplicatesInString();
+    runImplementQueueUsingStack();
 }
