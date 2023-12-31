@@ -1,5 +1,5 @@
-#include "neetcode/1-arrays-and-hashing/top-k-freq-elements-bucket-sort/top-k-freq-elements-bucket-sort.h"
+#include "neetcode/1-arrays-and-hashing/product-of-arr-except-self/product-of-arr-except-self.h"
 
 int main() {
-    runTopKFreqElementsBucketSortExample();
+    runProductOfArrExceptSelfExample();
 }

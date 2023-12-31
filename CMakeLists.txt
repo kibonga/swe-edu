@@ -26,4 +26,5 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/top-k-freq-elements/top-k-freq-elements.cpp
         neetcode/1-arrays-and-hashing/top-k-freq-elements-bucket-sort/top-k-freq-elements-bucket-sort.cpp
         neetcode/1-arrays-and-hashing/top-k-freq-elements-bucket-sort/top-k-freq-elements-bucket-sort.h
+        neetcode/1-arrays-and-hashing/product-of-arr-except-self/product-of-arr-except-self.cpp
 )
