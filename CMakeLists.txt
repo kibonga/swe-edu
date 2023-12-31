@@ -19,4 +19,7 @@ add_executable(swe_edu main.cpp
         week1/4-hash-maps/impl-string-hash-map/impl-string-hash-map.h
         week1/4-hash-maps/impl-string-hash-map/impl-string-hash-map.cpp
         neetcode/1-arrays-and-hashing/group-anagrams-by-freq/group-anagrams-by-freq.h
-        neetcode/1-arrays-and-hashing/group-anagrams-by-freq/group-anagrams-by-freq.cpp)
+        neetcode/1-arrays-and-hashing/group-anagrams-by-freq/group-anagrams-by-freq.cpp
+        neetcode/1-arrays-and-hashing/group-anagrams-by-sort/group-anagrams-by-sort.h
+        neetcode/1-arrays-and-hashing/group-anagrams-by-sort/group-anagrams-by-sort.cpp
+)
