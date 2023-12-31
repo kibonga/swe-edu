@@ -15,4 +15,6 @@ add_executable(swe_edu main.cpp
         week1/3-stacks/remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.h
         week1/3-stacks/remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.cpp
         week1/3-stacks/implement-queue-using-stack/implement-queue-using-stack.cpp
-        week1/3-stacks/implement-queue-using-stack/implement-queue-using-stack.h)
+        week1/3-stacks/implement-queue-using-stack/implement-queue-using-stack.h
+        week1/4-hash-maps/impl-string-hash-map/impl-string-hash-map.h
+        week1/4-hash-maps/impl-string-hash-map/impl-string-hash-map.cpp)

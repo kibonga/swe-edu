@@ -1,5 +1,5 @@
-#include "week1/3-stacks/implement-queue-using-stack/implement-queue-using-stack.h"
+#include "week1/4-hash-maps/impl-string-hash-map/impl-string-hash-map.h"
 
 int main() {
-    runImplementQueueUsingStack();
+    runImplStringHashMapExample();
 }
