@@ -1,5 +1,5 @@
-#include "week1/4-hash-maps/impl-string-hash-map/impl-string-hash-map.h"
+#include "neetcode/1-arrays-and-hashing/group-anagrams-by-freq/group-anagrams-by-freq.h"
 
 int main() {
-    runImplStringHashMapExample();
+    runGroupAnagramsExample();
 }

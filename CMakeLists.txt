@@ -17,4 +17,6 @@ add_executable(swe_edu main.cpp
         week1/3-stacks/implement-queue-using-stack/implement-queue-using-stack.cpp
         week1/3-stacks/implement-queue-using-stack/implement-queue-using-stack.h
         week1/4-hash-maps/impl-string-hash-map/impl-string-hash-map.h
-        week1/4-hash-maps/impl-string-hash-map/impl-string-hash-map.cpp)
+        week1/4-hash-maps/impl-string-hash-map/impl-string-hash-map.cpp
+        neetcode/1-arrays-and-hashing/group-anagrams-by-freq/group-anagrams-by-freq.h
+        neetcode/1-arrays-and-hashing/group-anagrams-by-freq/group-anagrams-by-freq.cpp)
