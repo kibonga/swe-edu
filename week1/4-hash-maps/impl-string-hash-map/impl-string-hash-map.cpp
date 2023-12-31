@@ -86,6 +86,34 @@ void remove(HashMap *map, string &key) {
     }
 }
 
+void remove2(HashMap *map, string &key) {
+    int i = hashFn(key);
+    MapNode *head = map->table[i];
+    if(head == nullptr) {
+        cout << "There is no record with given key" << endl;
+        return;
+    }
+    MapNode *temp = nullptr;
+    if(head->key == key) {
+        temp = head;
+        map->table[i] = head->next;
+        delete temp;
+        return;
+    }
+    temp = head;
+    MapNode *prev = nullptr;
+    while(temp != nullptr && temp->key != key) {
+        prev = temp;
+        temp = temp->next;
+    }
+    if(temp == nullptr) {
+        cout << "There is no record with given key" << endl;
+        return;
+    }
+    prev->next = temp->next;
+    delete temp;
+}
+
 void runImplStringHashMapExample() {
     string input = "John";
     string input2 = "c";
@@ -96,7 +124,7 @@ void runImplStringHashMapExample() {
     put(&map, input2, 420);
     cout << "Value of input 2 = " << get(&map, input2) << endl;
     cout << "Value of input 1 = " << get(&map, input) << endl;
-    remove(&map, input);
+    remove2(&map, input);
     cout << "Value of input 1 = " << get(&map, input) << endl;
     cout << "Value of input 2 = " << get(&map, input2) << endl;
 }
