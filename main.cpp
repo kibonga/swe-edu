@@ -1,5 +1,5 @@
-#include "neetcode/1-arrays-and-hashing/group-anagrams-by-sort/group-anagrams-by-sort.h"
+#include "neetcode/1-arrays-and-hashing/top-k-freq-elements-bucket-sort/top-k-freq-elements-bucket-sort.h"
 
 int main() {
-    runGroupAnagramsBySort();
+    runTopKFreqElementsBucketSortExample();
 }
