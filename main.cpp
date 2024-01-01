@@ -1,5 +1,5 @@
-#include "neetcode/1-arrays-and-hashing/product-of-arr-except-self/product-of-arr-except-self.h"
+#include "neetcode/1-arrays-and-hashing/valid-sudoku/valid-sudoku.h"
 
 int main() {
-    runProductOfArrExceptSelfExample();
+    runValidSudokuExample();
 }
