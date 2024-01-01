@@ -31,4 +31,6 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/valid-sudoku/valid-sudoku.h
         neetcode/1-arrays-and-hashing/longest-consequtive-sequence/longest-consequtive-sequence.cpp
         neetcode/2-two-pointers/4-sum/4-sum.cpp
+        neetcode/2-two-pointers/rotate-array/rotate-array.cpp
+        neetcode/2-two-pointers/rotate-array/rotate-array.h
 )
