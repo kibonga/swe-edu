@@ -1,5 +1,5 @@
-#include "neetcode/1-arrays-and-hashing/longest-consequtive-sequence/longest-consequtive-sequence.h"
+#include "neetcode/2-two-pointers/4-sum/4-sum.h"
 
 int main() {
-    runLongestConsecutiveSequenceExample();
+    run4SumExample();
 }
