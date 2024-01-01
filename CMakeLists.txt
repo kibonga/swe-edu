@@ -29,4 +29,5 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/product-of-arr-except-self/product-of-arr-except-self.cpp
         neetcode/1-arrays-and-hashing/valid-sudoku/valid-sudoku.cpp
         neetcode/1-arrays-and-hashing/valid-sudoku/valid-sudoku.h
+        neetcode/1-arrays-and-hashing/longest-consequtive-sequence/longest-consequtive-sequence.cpp
 )

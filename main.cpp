@@ -1,5 +1,5 @@
-#include "neetcode/1-arrays-and-hashing/valid-sudoku/valid-sudoku.h"
+#include "neetcode/1-arrays-and-hashing/longest-consequtive-sequence/longest-consequtive-sequence.h"
 
 int main() {
-    runValidSudokuExample();
+    runLongestConsecutiveSequenceExample();
 }
