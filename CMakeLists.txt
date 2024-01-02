@@ -33,4 +33,8 @@ add_executable(swe_edu main.cpp
         neetcode/2-two-pointers/4-sum/4-sum.cpp
         neetcode/2-two-pointers/rotate-array/rotate-array.cpp
         neetcode/2-two-pointers/rotate-array/rotate-array.h
+        neetcode/2-two-pointers/arr-with-elems-not-equal-to-avg-of-neighbors/arr-with-elems-not-equal-to-avg-of-neighbors.cpp
+        neetcode/2-two-pointers/arr-with-elems-not-equal-to-avg-of-neighbors/arr-with-elems-not-equal-to-avg-of-neighbors.h
+        neetcode/2-two-pointers/number-of-subseqences-satisfying-sum-condition/number-of-subseqences-satisfying-sum-condition.h
+        neetcode/2-two-pointers/number-of-subseqences-satisfying-sum-condition/number-of-subseqences-satisfying-sum-condition.cpp
 )
