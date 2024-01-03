@@ -1,5 +1,5 @@
-#include "neetcode/2-two-pointers/number-of-subseqences-satisfying-sum-condition/number-of-subseqences-satisfying-sum-condition.h"
+#include "neetcode/2-two-pointers/4-sum/4-sum.h"
 
 int main() {
-    runNumberOfSequencesSatisfyingSumConditionExample();
+    runFourSumExample();
 }

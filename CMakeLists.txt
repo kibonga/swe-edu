@@ -37,4 +37,10 @@ add_executable(swe_edu main.cpp
         neetcode/2-two-pointers/arr-with-elems-not-equal-to-avg-of-neighbors/arr-with-elems-not-equal-to-avg-of-neighbors.h
         neetcode/2-two-pointers/number-of-subseqences-satisfying-sum-condition/number-of-subseqences-satisfying-sum-condition.h
         neetcode/2-two-pointers/number-of-subseqences-satisfying-sum-condition/number-of-subseqences-satisfying-sum-condition.cpp
+        neetcode/2-two-pointers/remove-duplicates-from-sorted-arr-2/remove-duplicates-from-sorted-arr-2.cpp
+        neetcode/2-two-pointers/remove-duplicates-from-sorted-arr-2/remove-duplicates-from-sorted-arr-2.h
+        neetcode/2-two-pointers/2sum/2sum.cpp
+        neetcode/2-two-pointers/2sum/2sum.h
+        neetcode/2-two-pointers/3sum/3sum.cpp
+        neetcode/2-two-pointers/3sum/3sum.h
 )

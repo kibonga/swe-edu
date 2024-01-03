@@ -1,8 +1,8 @@
 #include <vector>
-#include <algorithm>
 #include <iostream>
+#include <algorithm>
 #include <tuple>
 #include <set>
 using namespace std;
 
-void runFourSumExample();
+void runThreeSumExample();
