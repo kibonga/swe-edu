@@ -43,4 +43,10 @@ add_executable(swe_edu main.cpp
         neetcode/2-two-pointers/2sum/2sum.h
         neetcode/2-two-pointers/3sum/3sum.cpp
         neetcode/2-two-pointers/3sum/3sum.h
+        neetcode/2-two-pointers/boats-to-save-people/boats-to-save-people.cpp
+        neetcode/2-two-pointers/boats-to-save-people/boats-to-save-people.h
+        neetcode/3-sliding-window/num-of-sub-arr-of-size-K-and-avg-greater-than-or-eq-to-threshold/num-of-sub-arr-of-size-K-and-avg-greater-than-or-eq-to-threshold.cpp
+        neetcode/3-sliding-window/num-of-sub-arr-of-size-K-and-avg-greater-than-or-eq-to-threshold/num-of-sub-arr-of-size-K-and-avg-greater-than-or-eq-to-threshold.h
+        neetcode/3-sliding-window/longest-substr-without-repeating-chars/longest-substr-without-repeating-chars.cpp
+        neetcode/3-sliding-window/longest-substr-without-repeating-chars/longest-substr-without-repeating-chars.h
 )
