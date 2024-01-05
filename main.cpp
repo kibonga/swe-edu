@@ -1,5 +1,5 @@
-#include "neetcode/3-sliding-window/longest-substr-without-repeating-chars/longest-substr-without-repeating-chars.h"
+#include "neetcode/3-sliding-window/permutation-in-string/permutation-in-string.h"
 
 int main() {
-    runLongestSubstrWithoutRepeatingChars();
+    runPermutationInStingExample();
 }

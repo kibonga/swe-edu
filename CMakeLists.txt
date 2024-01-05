@@ -49,4 +49,8 @@ add_executable(swe_edu main.cpp
         neetcode/3-sliding-window/num-of-sub-arr-of-size-K-and-avg-greater-than-or-eq-to-threshold/num-of-sub-arr-of-size-K-and-avg-greater-than-or-eq-to-threshold.h
         neetcode/3-sliding-window/longest-substr-without-repeating-chars/longest-substr-without-repeating-chars.cpp
         neetcode/3-sliding-window/longest-substr-without-repeating-chars/longest-substr-without-repeating-chars.h
+        neetcode/3-sliding-window/longest-repeating-char-replacment/longest-repeating-char-replacment.cpp
+        neetcode/3-sliding-window/longest-repeating-char-replacment/longest-repeating-char-replacment.h
+        neetcode/3-sliding-window/permutation-in-string/permutation-in-string.cpp
+        neetcode/3-sliding-window/permutation-in-string/permutation-in-string.h
 )
