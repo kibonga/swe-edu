@@ -53,4 +53,8 @@ add_executable(swe_edu main.cpp
         neetcode/3-sliding-window/longest-repeating-char-replacment/longest-repeating-char-replacment.h
         neetcode/3-sliding-window/permutation-in-string/permutation-in-string.cpp
         neetcode/3-sliding-window/permutation-in-string/permutation-in-string.h
+        neetcode/3-sliding-window/fruit-into-baskets/fruit-into-baskets.cpp
+        neetcode/3-sliding-window/fruit-into-baskets/fruit-into-baskets.h
+        neetcode/3-sliding-window/max-num-of-vowels-in-a-substring-of-given-length/max-num-of-vowels-in-a-substring-of-given-length.cpp
+        neetcode/3-sliding-window/max-num-of-vowels-in-a-substring-of-given-length/max-num-of-vowels-in-a-substring-of-given-length.h
 )
