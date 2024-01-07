@@ -1,5 +1,9 @@
-#include "neetcode/3-sliding-window/max-num-of-vowels-in-a-substring-of-given-length/max-num-of-vowels-in-a-substring-of-given-length.h"
+//#include "neetcode/1-arrays-and-hashing/fundamentals/remove-element/remove-element.h"
+//#include "neetcode/1-arrays-and-hashing/fundamentals/unique-email-addr/unique-email-addr.h"
+#include "neetcode/1-arrays-and-hashing/fundamentals/next-greater-elem-1/next-greater-elem-1.h"
 
 int main() {
-    runMaxNumberOfVowelsInSubstringOfGivenLengthExample();
+//    runRemoveElementExample();
+//    runUniqueEmailAddrExample();
+    runNextGreaterElem1Example();
 }

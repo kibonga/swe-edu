@@ -57,4 +57,36 @@ add_executable(swe_edu main.cpp
         neetcode/3-sliding-window/fruit-into-baskets/fruit-into-baskets.h
         neetcode/3-sliding-window/max-num-of-vowels-in-a-substring-of-given-length/max-num-of-vowels-in-a-substring-of-given-length.cpp
         neetcode/3-sliding-window/max-num-of-vowels-in-a-substring-of-given-length/max-num-of-vowels-in-a-substring-of-given-length.h
+        neetcode/3-sliding-window/min-size-subarr-sum/min-size-subarr-sum.cpp
+        neetcode/3-sliding-window/min-size-subarr-sum/min-size-subarr-sum.h
+        neetcode/3-sliding-window/find-k-closest-elems/find-k-closest-elems.cpp
+        neetcode/3-sliding-window/find-k-closest-elems/find-k-closest-elems.h
+        neetcode/1-arrays-and-hashing/fundamentals/contains-duplicates/contains-duplicates.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/contains-duplicates/contains-duplicates.h
+        neetcode/1-arrays-and-hashing/fundamentals/valid-anagram/valid-anagram.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/valid-anagram/valid-anagram.h
+        neetcode/1-arrays-and-hashing/fundamentals/concatenation-of-arr/concatenation-of-arr.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/concatenation-of-arr/concatenation-of-arr.h
+        neetcode/1-arrays-and-hashing/fundamentals/replace-elems-with-greatest-elem-on-right-side/replace-elems-with-greatest-elem-on-right-side.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/replace-elems-with-greatest-elem-on-right-side/replace-elems-with-greatest-elem-on-right-side.h
+        neetcode/1-arrays-and-hashing/fundamentals/is-subsequence/is-subsequence.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/is-subsequence/is-subsequence.h
+        neetcode/1-arrays-and-hashing/fundamentals/length-of-last-word/length-of-last-word.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/length-of-last-word/length-of-last-word.h
+        neetcode/1-arrays-and-hashing/fundamentals/longest-common-prefix/longest-common-prefix.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/longest-common-prefix/longest-common-prefix.h
+        neetcode/1-arrays-and-hashing/fundamentals/pascals-triangle/pascals-triangle.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/pascals-triangle/pascals-triangle.h
+        neetcode/1-arrays-and-hashing/fundamentals/remove-element/remove-element.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/remove-element/remove-element.h
+        neetcode/1-arrays-and-hashing/fundamentals/unique-email-addr/unique-email-addr.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/unique-email-addr/unique-email-addr.h
+        neetcode/1-arrays-and-hashing/fundamentals/isomorphic-strings/isomorphic-strings.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/isomorphic-strings/isomorphic-strings.h
+        neetcode/1-arrays-and-hashing/fundamentals/can-place-flowers/can-place-flowers.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/can-place-flowers/can-place-flowers.h
+        neetcode/1-arrays-and-hashing/fundamentals/majority-elem/majority-elem.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/majority-elem/majority-elem.h
+        neetcode/1-arrays-and-hashing/fundamentals/next-greater-elem-1/next-greater-elem-1.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/next-greater-elem-1/next-greater-elem-1.h
 )
