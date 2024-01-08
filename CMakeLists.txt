@@ -89,4 +89,16 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/fundamentals/majority-elem/majority-elem.h
         neetcode/1-arrays-and-hashing/fundamentals/next-greater-elem-1/next-greater-elem-1.cpp
         neetcode/1-arrays-and-hashing/fundamentals/next-greater-elem-1/next-greater-elem-1.h
+        neetcode/1-arrays-and-hashing/fundamentals/find-pivot-index/find-pivot-index.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/find-pivot-index/find-pivot-index.h
+        neetcode/1-arrays-and-hashing/fundamentals/range-sum-query-immutable/range-sum-query-immutable.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/range-sum-query-immutable/range-sum-query-immutable.h
+        neetcode/1-arrays-and-hashing/fundamentals/find-all-nums-disappeared-in-arr/find-all-nums-disappeared-in-arr.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/find-all-nums-disappeared-in-arr/find-all-nums-disappeared-in-arr.h
+        neetcode/1-arrays-and-hashing/fundamentals/max-num-of-ballons/max-num-of-ballons.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/max-num-of-ballons/max-num-of-ballons.h
+        neetcode/1-arrays-and-hashing/fundamentals/word-pattern/word-pattern.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/word-pattern/word-pattern.h
+        neetcode/1-arrays-and-hashing/medium/sort-arr/sort-arr.cpp
+        neetcode/1-arrays-and-hashing/medium/sort-arr/sort-arr.h
 )
