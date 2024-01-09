@@ -101,4 +101,10 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/fundamentals/word-pattern/word-pattern.h
         neetcode/1-arrays-and-hashing/medium/sort-arr/sort-arr.cpp
         neetcode/1-arrays-and-hashing/medium/sort-arr/sort-arr.h
+        neetcode/1-arrays-and-hashing/medium/sort-arr-merge-sort/sort-arr-merge-sort.cpp
+        neetcode/1-arrays-and-hashing/medium/sort-arr-merge-sort/sort-arr-merge-sort.h
+        neetcode/1-arrays-and-hashing/medium/heap-sort/heap-sort.cpp
+        neetcode/1-arrays-and-hashing/medium/heap-sort/heap-sort.h
+        neetcode/1-arrays-and-hashing/medium/merge-sort/merge-sort.cpp
+        neetcode/1-arrays-and-hashing/medium/merge-sort/merge-sort.h
 )
