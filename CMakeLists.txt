@@ -107,4 +107,12 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/medium/heap-sort/heap-sort.h
         neetcode/1-arrays-and-hashing/medium/merge-sort/merge-sort.cpp
         neetcode/1-arrays-and-hashing/medium/merge-sort/merge-sort.h
+        neetcode/1-arrays-and-hashing/medium/quick-sort/quick-sort.cpp
+        neetcode/1-arrays-and-hashing/medium/quick-sort/quick-sort.h
+        neetcode/1-arrays-and-hashing/fundamentals/design-hash-set/design-hash-set.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/design-hash-set/design-hash-set.h
+        neetcode/1-arrays-and-hashing/fundamentals/design-hash-map/design-hash-map.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/design-hash-map/design-hash-map.h
+        neetcode/1-arrays-and-hashing/medium/sort-colors/sort-colors.cpp
+        neetcode/1-arrays-and-hashing/medium/sort-colors/sort-colors.h
 )
