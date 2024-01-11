@@ -115,4 +115,14 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/fundamentals/design-hash-map/design-hash-map.h
         neetcode/1-arrays-and-hashing/medium/sort-colors/sort-colors.cpp
         neetcode/1-arrays-and-hashing/medium/sort-colors/sort-colors.h
+        neetcode/1-arrays-and-hashing/medium/tiny-url/tiny-url.cpp
+        neetcode/1-arrays-and-hashing/medium/tiny-url/tiny-url.h
+        neetcode/1-arrays-and-hashing/medium/brick-wall/brick-wall.cpp
+        neetcode/1-arrays-and-hashing/medium/brick-wall/brick-wall.h
+        neetcode/1-arrays-and-hashing/medium/best-time-to-buy-sell-sotck-II/best-time-to-buy-sell-sotck-II.cpp
+        neetcode/1-arrays-and-hashing/medium/best-time-to-buy-sell-sotck-II/best-time-to-buy-sell-sotck-II.h
+        neetcode/1-arrays-and-hashing/medium/subarr-sum-equals-k/subarr-sum-equals-k.cpp
+        neetcode/1-arrays-and-hashing/medium/subarr-sum-equals-k/subarr-sum-equals-k.h
+        neetcode/1-arrays-and-hashing/medium/unique-len-3-palindromic-subsequence/unique-len-3-palindromic-subsequence.cpp
+        neetcode/1-arrays-and-hashing/medium/unique-len-3-palindromic-subsequence/unique-len-3-palindromic-subsequence.h
 )
