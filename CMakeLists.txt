@@ -125,4 +125,18 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/medium/subarr-sum-equals-k/subarr-sum-equals-k.h
         neetcode/1-arrays-and-hashing/medium/unique-len-3-palindromic-subsequence/unique-len-3-palindromic-subsequence.cpp
         neetcode/1-arrays-and-hashing/medium/unique-len-3-palindromic-subsequence/unique-len-3-palindromic-subsequence.h
+        neetcode/1-arrays-and-hashing/medium/revise/longest-consequtive-sequence/longest-consequtive-sequence.cpp
+        neetcode/1-arrays-and-hashing/medium/revise/longest-consequtive-sequence/longest-consequtive-sequence.h
+        neetcode/1-arrays-and-hashing/medium/revise/sort-colors/sort-colors.cpp
+        neetcode/1-arrays-and-hashing/medium/revise/sort-colors/sort-colors.h
+        neetcode/1-arrays-and-hashing/medium/revise/brick-wall/brick-wall.cpp
+        neetcode/1-arrays-and-hashing/medium/revise/brick-wall/brick-wall.h
+        neetcode/1-arrays-and-hashing/medium/revise/best-time-to-buy-and-sell-stocks/best-time-to-buy-and-sell-stocks.cpp
+        neetcode/1-arrays-and-hashing/medium/revise/best-time-to-buy-and-sell-stocks/best-time-to-buy-and-sell-stocks.h
+        neetcode/1-arrays-and-hashing/medium/revise/subarr-sum-equals-k/subarr-sum-equals-k.cpp
+        neetcode/1-arrays-and-hashing/medium/revise/subarr-sum-equals-k/subarr-sum-equals-k.h
+        neetcode/1-arrays-and-hashing/medium/min-num-of-swaps-to-make-string-balanced/min-num-of-swaps-to-make-string-balanced.cpp
+        neetcode/1-arrays-and-hashing/medium/min-num-of-swaps-to-make-string-balanced/min-num-of-swaps-to-make-string-balanced.h
+        neetcode/1-arrays-and-hashing/medium/num-of-pairs-of-interchangeable-rectangles/num-of-pairs-of-interchangeable-rectangles.cpp
+        neetcode/1-arrays-and-hashing/medium/num-of-pairs-of-interchangeable-rectangles/num-of-pairs-of-interchangeable-rectangles.h
 )
