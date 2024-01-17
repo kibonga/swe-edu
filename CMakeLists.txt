@@ -139,4 +139,14 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/medium/min-num-of-swaps-to-make-string-balanced/min-num-of-swaps-to-make-string-balanced.h
         neetcode/1-arrays-and-hashing/medium/num-of-pairs-of-interchangeable-rectangles/num-of-pairs-of-interchangeable-rectangles.cpp
         neetcode/1-arrays-and-hashing/medium/num-of-pairs-of-interchangeable-rectangles/num-of-pairs-of-interchangeable-rectangles.h
+        neetcode/1-arrays-and-hashing/medium/max-product-of-the-length-of-two-palindromic-subsequences/max-product-of-the-length-of-two-palindromic-subsequences.cpp
+        neetcode/1-arrays-and-hashing/medium/max-product-of-the-length-of-two-palindromic-subsequences/max-product-of-the-length-of-two-palindromic-subsequences.h
+        neetcode/1-arrays-and-hashing/medium/longest-palindromic-subsequence/longest-palindromic-subsequence.cpp
+        neetcode/1-arrays-and-hashing/medium/longest-palindromic-subsequence/longest-palindromic-subsequence.h
+        neetcode/1-arrays-and-hashing/medium/grid-game/grid-game.cpp
+        neetcode/1-arrays-and-hashing/medium/grid-game/grid-game.h
+        neetcode/1-arrays-and-hashing/medium/find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.cpp
+        neetcode/1-arrays-and-hashing/medium/find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.h
+        neetcode/1-arrays-and-hashing/medium/find-index-of-first-occurrence-in-string/find-index-of-first-occurrence-in-string.cpp
+        neetcode/1-arrays-and-hashing/medium/find-index-of-first-occurrence-in-string/find-index-of-first-occurrence-in-string.h
 )
