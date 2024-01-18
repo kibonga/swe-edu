@@ -4,12 +4,14 @@
 //#include "neetcode/1-arrays-and-hashing/medium/grid-game/grid-game.h"
 //#include "neetcode/1-arrays-and-hashing/medium/revise/"
 //#include "neetcode/1-arrays-and-hashing/medium/"
-#include "neetcode/1-arrays-and-hashing/medium/find-index-of-first-occurrence-in-string/find-index-of-first-occurrence-in-string.h"
+#include "neetcode/1-arrays-and-hashing/medium/continous-subarray-sum/continous-subarray-sum.h"
 
 int main() {
 //    runRemoveElementExample();
 //    runUniqueEmailAddrExample();
 //    runMaxProductOfLengthOfTwoPalindromicSubsequences();
 //    runGridGameExample();
-    runFindTheIndexOfTheFirstOccurrenceInAStringExample();
+//    runFindTheIndexOfTheFirstOccurrenceInAStringExample();
+    runContinuousSubarraySumExample();
 }
+

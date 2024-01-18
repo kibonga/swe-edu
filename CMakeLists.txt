@@ -149,4 +149,8 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/medium/find-all-anagrams-in-a-string/find-all-anagrams-in-a-string.h
         neetcode/1-arrays-and-hashing/medium/find-index-of-first-occurrence-in-string/find-index-of-first-occurrence-in-string.cpp
         neetcode/1-arrays-and-hashing/medium/find-index-of-first-occurrence-in-string/find-index-of-first-occurrence-in-string.h
+        neetcode/1-arrays-and-hashing/medium/largest-number/largest-number.cpp
+        neetcode/1-arrays-and-hashing/medium/largest-number/largest-number.h
+        neetcode/1-arrays-and-hashing/medium/continous-subarray-sum/continous-subarray-sum.cpp
+        neetcode/1-arrays-and-hashing/medium/continous-subarray-sum/continous-subarray-sum.h
 )
