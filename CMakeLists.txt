@@ -153,4 +153,16 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/medium/largest-number/largest-number.h
         neetcode/1-arrays-and-hashing/medium/continous-subarray-sum/continous-subarray-sum.cpp
         neetcode/1-arrays-and-hashing/medium/continous-subarray-sum/continous-subarray-sum.h
+        neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/unique-len-3-palindromic-subseq/unique-len-3-palindromic-subseq.cpp
+        neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/unique-len-3-palindromic-subseq/unique-len-3-palindromic-subseq.h
+        neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/subarray-sum-equals-k/subarray-sum-equals-k.cpp
+        neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/subarray-sum-equals-k/subarray-sum-equals-k.h
+        neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/min-number-of-swaps-to-make-string-balanced/min-number-of-swaps-to-make-string-balanced.cpp
+        neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/min-number-of-swaps-to-make-string-balanced/min-number-of-swaps-to-make-string-balanced.h
+        neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/number-of-pairs-of-interchangeable-rectangles/number-of-pairs-of-interchangeable-rectangles.cpp
+        neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/number-of-pairs-of-interchangeable-rectangles/number-of-pairs-of-interchangeable-rectangles.h
+        neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/find-all-anagrams-in-string/find-all-anagrams-in-string.cpp
+        neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/find-all-anagrams-in-string/find-all-anagrams-in-string.h
+        neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/largest-number/largest-number.cpp
+        neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/largest-number/largest-number.h
 )
