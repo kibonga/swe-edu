@@ -165,4 +165,14 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/find-all-anagrams-in-string/find-all-anagrams-in-string.h
         neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/largest-number/largest-number.cpp
         neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/largest-number/largest-number.h
+        neetcode/1-arrays-and-hashing/medium/review/sat-20-jan-2024/continous-subarray-sum/continuous-subarray-sum.cpp
+        neetcode/1-arrays-and-hashing/medium/review/sat-20-jan-2024/continous-subarray-sum/continuous-subarray-sum.h
+        neetcode/1-arrays-and-hashing/medium/repeated-dna-sequence/repeated-dna-sequence.cpp
+        neetcode/1-arrays-and-hashing/medium/repeated-dna-sequence/repeated-dna-sequence.h
+        neetcode/1-arrays-and-hashing/medium/insert-delete-get-random-O-of-1/insert-delete-get-random-O-of-1.cpp
+        neetcode/1-arrays-and-hashing/medium/insert-delete-get-random-O-of-1/insert-delete-get-random-O-of-1.h
+        neetcode/1-arrays-and-hashing/medium/range-sum-query-2d-immutable/range-sum-query-2d-immutable.cpp
+        neetcode/1-arrays-and-hashing/medium/range-sum-query-2d-immutable/range-sum-query-2d-immutable.h
+        neetcode/1-arrays-and-hashing/medium/non-decreasing-array/non-decreasing-array.cpp
+        neetcode/1-arrays-and-hashing/medium/non-decreasing-array/non-decreasing-array.h
 )

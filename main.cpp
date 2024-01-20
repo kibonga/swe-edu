@@ -4,7 +4,7 @@
 //#include "neetcode/1-arrays-and-hashing/medium/grid-game/grid-game.h"
 //#include "neetcode/1-arrays-and-hashing/medium/revise/"
 //#include "neetcode/1-arrays-and-hashing/medium/"
-#include "neetcode/1-arrays-and-hashing/medium/review/fri-19-jan-2024/largest-number/largest-number.h"
+#include "neetcode/1-arrays-and-hashing/medium/non-decreasing-array/non-decreasing-array.h"
 
 int main() {
 //    runRemoveElementExample();
@@ -12,6 +12,6 @@ int main() {
 //    runMaxProductOfLengthOfTwoPalindromicSubsequences();
 //    runGridGameExample();
 //    runFindTheIndexOfTheFirstOccurrenceInAStringExample();
-    runLargestNumberExampleReviewFri19Jan2024();
+    runNonDecreasingArrayExample();
 }
 
