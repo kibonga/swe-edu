@@ -175,4 +175,16 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/medium/range-sum-query-2d-immutable/range-sum-query-2d-immutable.h
         neetcode/1-arrays-and-hashing/medium/non-decreasing-array/non-decreasing-array.cpp
         neetcode/1-arrays-and-hashing/medium/non-decreasing-array/non-decreasing-array.h
+        neetcode/1-arrays-and-hashing/fundamentals/sign-of-the-product-of-an-array/sign-of-the-product-of-an-array.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/sign-of-the-product-of-an-array/sign-of-the-product-of-an-array.h
+        neetcode/1-arrays-and-hashing/fundamentals/find-the-diff-of-two-arrays/find-the-diff-of-two-arrays.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/find-the-diff-of-two-arrays/find-the-diff-of-two-arrays.h
+        neetcode/1-arrays-and-hashing/fundamentals/design-parking-system/design-parking-system.cpp
+        neetcode/1-arrays-and-hashing/fundamentals/design-parking-system/design-parking-system.h
+        neetcode/1-arrays-and-hashing/medium/number-of-zero-filled-subarrays/number-of-zero-filled-subarrays.cpp
+        neetcode/1-arrays-and-hashing/medium/number-of-zero-filled-subarrays/number-of-zero-filled-subarrays.h
+        neetcode/1-arrays-and-hashing/medium/optimal-partition-of-string/optimal-partition-of-string.cpp
+        neetcode/1-arrays-and-hashing/medium/optimal-partition-of-string/optimal-partition-of-string.h
+        neetcode/1-arrays-and-hashing/medium/minimum-penalty-for-a-shop/minimum-penalty-for-a-shop.cpp
+        neetcode/1-arrays-and-hashing/medium/minimum-penalty-for-a-shop/minimum-penalty-for-a-shop.h
 )
