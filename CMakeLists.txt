@@ -187,4 +187,8 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/medium/optimal-partition-of-string/optimal-partition-of-string.h
         neetcode/1-arrays-and-hashing/medium/minimum-penalty-for-a-shop/minimum-penalty-for-a-shop.cpp
         neetcode/1-arrays-and-hashing/medium/minimum-penalty-for-a-shop/minimum-penalty-for-a-shop.h
+        neetcode/1-arrays-and-hashing/medium/review/mon-22-jan-2024/subarray-sum-equals-k/subarray-sum-equals-k.cpp
+        neetcode/1-arrays-and-hashing/medium/review/mon-22-jan-2024/subarray-sum-equals-k/subarray-sum-equals-k.h
+        neetcode/1-arrays-and-hashing/medium/review/mon-22-jan-2024/unique-len-3-palindromic-subseq/unique-len-3-palindromic-subseq.cpp
+        neetcode/1-arrays-and-hashing/medium/review/mon-22-jan-2024/unique-len-3-palindromic-subseq/unique-len-3-palindromic-subseq.h
 )

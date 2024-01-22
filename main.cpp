@@ -4,7 +4,7 @@
 //#include "neetcode/1-arrays-and-hashing/medium/grid-game/grid-game.h"
 //#include "neetcode/1-arrays-and-hashing/medium/revise/"
 //#include "neetcode/1-arrays-and-hashing/medium/"
-#include "neetcode/1-arrays-and-hashing/medium/minimum-penalty-for-a-shop/minimum-penalty-for-a-shop.h"
+#include "neetcode/1-arrays-and-hashing/medium/review/mon-22-jan-2024/subarray-sum-equals-k/subarray-sum-equals-k.h"
 
 int main() {
 //    runRemoveElementExample();
@@ -12,6 +12,6 @@ int main() {
 //    runMaxProductOfLengthOfTwoPalindromicSubsequences();
 //    runGridGameExample();
 //    runFindTheIndexOfTheFirstOccurrenceInAStringExample();
-    runMinimumPenaltyForAShopExample();
+    runSubarraySumEqualsKExampleReviewMon22Jan2024();
 }
 
