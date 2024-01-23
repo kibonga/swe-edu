@@ -191,4 +191,22 @@ add_executable(swe_edu main.cpp
         neetcode/1-arrays-and-hashing/medium/review/mon-22-jan-2024/subarray-sum-equals-k/subarray-sum-equals-k.h
         neetcode/1-arrays-and-hashing/medium/review/mon-22-jan-2024/unique-len-3-palindromic-subseq/unique-len-3-palindromic-subseq.cpp
         neetcode/1-arrays-and-hashing/medium/review/mon-22-jan-2024/unique-len-3-palindromic-subseq/unique-len-3-palindromic-subseq.h
+        neetcode/2-two-pointers/fundamentals/valid-palindrome/valid-palindrome.cpp
+        neetcode/2-two-pointers/fundamentals/valid-palindrome/valid-palindrome.h
+        neetcode/2-two-pointers/fundamentals/valid-palindrome-II/valid-palindrome-II.cpp
+        neetcode/2-two-pointers/fundamentals/valid-palindrome-II/valid-palindrome-II.h
+        neetcode/2-two-pointers/fundamentals/min-diff-between-highest-and-lowest-of-k-scores/min-diff-between-highest-and-lowest-of-k-scores.cpp
+        neetcode/2-two-pointers/fundamentals/min-diff-between-highest-and-lowest-of-k-scores/min-diff-between-highest-and-lowest-of-k-scores.h
+        neetcode/2-two-pointers/fundamentals/merge-strings-alternately/merge-strings-alternately.cpp
+        neetcode/2-two-pointers/fundamentals/merge-strings-alternately/merge-strings-alternately.h
+        neetcode/2-two-pointers/fundamentals/reverse-string/reverse-string.cpp
+        neetcode/2-two-pointers/fundamentals/reverse-string/reverse-string.h
+        neetcode/2-two-pointers/fundamentals/merge-sorted-array/merge-sorted-array.cpp
+        neetcode/2-two-pointers/fundamentals/merge-sorted-array/merge-sorted-array.h
+        neetcode/2-two-pointers/fundamentals/move-zeroes/move-zeroes.cpp
+        neetcode/2-two-pointers/fundamentals/move-zeroes/move-zeroes.h
+        neetcode/2-two-pointers/fundamentals/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp
+        neetcode/2-two-pointers/fundamentals/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.h
+        neetcode/2-two-pointers/medium/remove-duplicates-from-sorted-array-II/remove-duplicates-from-sorted-array-II.cpp
+        neetcode/2-two-pointers/medium/remove-duplicates-from-sorted-array-II/remove-duplicates-from-sorted-array-II.h
 )
