@@ -209,4 +209,10 @@ add_executable(swe_edu main.cpp
         neetcode/2-two-pointers/fundamentals/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.h
         neetcode/2-two-pointers/medium/remove-duplicates-from-sorted-array-II/remove-duplicates-from-sorted-array-II.cpp
         neetcode/2-two-pointers/medium/remove-duplicates-from-sorted-array-II/remove-duplicates-from-sorted-array-II.h
+        neetcode/2-two-pointers/medium/two-sum-II-input-array-sorted/two-sum-II-input-array-sorted.cpp
+        neetcode/2-two-pointers/medium/two-sum-II-input-array-sorted/two-sum-II-input-array-sorted.h
+        neetcode/2-two-pointers/medium/three-sum/three-sum.cpp
+        neetcode/2-two-pointers/medium/three-sum/three-sum.h
+        neetcode/2-two-pointers/medium/four-sum/four-sum.cpp
+        neetcode/2-two-pointers/medium/four-sum/four-sum.h
 )

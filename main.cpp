@@ -4,7 +4,7 @@
 //#include "neetcode/1-arrays-and-hashing/medium/grid-game/grid-game.h"
 //#include "neetcode/1-arrays-and-hashing/medium/revise/"
 //#include "neetcode/1-arrays-and-hashing/medium/"
-#include "neetcode/2-two-pointers/medium/remove-duplicates-from-sorted-array-II/remove-duplicates-from-sorted-array-II.h"
+#include "neetcode/2-two-pointers/medium/four-sum/four-sum.h"
 
 int main() {
 //    runRemoveElementExample();
@@ -12,6 +12,6 @@ int main() {
 //    runMaxProductOfLengthOfTwoPalindromicSubsequences();
 //    runGridGameExample();
 //    runFindTheIndexOfTheFirstOccurrenceInAStringExample();
-    runRemoveDuplicatesFromSortedArrayExample();
+    runFourSumMediumExample();
 }
 
