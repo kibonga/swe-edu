@@ -1,34 +1,32 @@
 #include "four-sum.h"
 
 vector<vector<int>> fourSumMedium(vector<int>  &nums, int target) {
-    if(nums.size() < 4) {return {};};
-    int i=0, k=1, j=nums.size()-1, m=nums.size()-2;
+    int i=0, k=i+1, j=nums.size()-1, m=nums.size()-2;
+    long sum;
     vector<vector<int>> r;
     set<vector<int>> s;
-    vector<int> v(4);
-    int sum;
 
     sort(nums.begin(), nums.end());
-    while(i < j) {
-        while(k < m) {
-            sum = nums[i] + nums[k] + nums[m] + nums[j];
-            if(sum == target) {
-                v = {nums[i], nums[k++], nums[m--], nums[j]};
-                sort(v.begin(), v.end());
-                s.insert(v);
-            }else if(sum < target) {
-                k++;
-            }else {
-                m--;
+    while(i + 1 < j - 1) {
+        while(i + 1 < j - 1) {
+            while(k < m) {
+                sum = (long)nums[i] + nums[k] + nums[m] + nums[j];
+                if(sum == target) {
+                    s.insert({nums[i], nums[k++], nums[m--], nums[j]});
+                }else if(sum > target) {
+                    m--;
+                }else {
+                    k++;
+                }
             }
-        }
-        if(sum > target) {
             j--;
-        }else {
-            i++;
+            m=j-1;
+            k=i+1;
         }
-        k = i + 1;
-        m = j - 1;
+        i++;
+        k=i+1;
+        j=nums.size()-1;
+        m=nums.size()-2;
     }
 
     for(auto &v : s) {
@@ -58,4 +56,5 @@ void runFourSumMediumExample() {
     int t1 = 2;
 
     vector<vector<int>> r1 = fourSumMedium(n1, t1);
+    displayFourSumMedium(r1);
 }

@@ -215,4 +215,16 @@ add_executable(swe_edu main.cpp
         neetcode/2-two-pointers/medium/three-sum/three-sum.h
         neetcode/2-two-pointers/medium/four-sum/four-sum.cpp
         neetcode/2-two-pointers/medium/four-sum/four-sum.h
+        neetcode/2-two-pointers/medium/container-with-most-water/container-with-most-water.cpp
+        neetcode/2-two-pointers/medium/container-with-most-water/container-with-most-water.h
+        neetcode/2-two-pointers/medium/num-of-subseq-satisfying-given-sum-cond/num-of-subseq-satisfying-given-sum-cond.cpp
+        neetcode/2-two-pointers/medium/num-of-subseq-satisfying-given-sum-cond/num-of-subseq-satisfying-given-sum-cond.h
+        neetcode/2-two-pointers/medium/rotate-array/rotate-array.cpp
+        neetcode/2-two-pointers/medium/rotate-array/rotate-array.h
+        neetcode/2-two-pointers/medium/arr-with-elems-not-equal-to-avg-of-neighbors/arr-with-elems-not-equal-to-avg-of-neighbors.cpp
+        neetcode/2-two-pointers/medium/arr-with-elems-not-equal-to-avg-of-neighbors/arr-with-elems-not-equal-to-avg-of-neighbors.h
+        neetcode/3-sliding-window/fundamentals/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp
+        neetcode/3-sliding-window/fundamentals/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.h
+        neetcode/3-sliding-window/fundamentals/contains-duplicate-II/contains-duplicate-II.cpp
+        neetcode/3-sliding-window/fundamentals/contains-duplicate-II/contains-duplicate-II.h
 )
