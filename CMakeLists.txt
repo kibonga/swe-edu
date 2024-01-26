@@ -227,4 +227,12 @@ add_executable(swe_edu main.cpp
         neetcode/3-sliding-window/fundamentals/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.h
         neetcode/3-sliding-window/fundamentals/contains-duplicate-II/contains-duplicate-II.cpp
         neetcode/3-sliding-window/fundamentals/contains-duplicate-II/contains-duplicate-II.h
+        neetcode/3-sliding-window/medium/num-of-sub-arr-of-size-k-and-avg-greater-or-equal-to-threshold/num-of-sub-arr-of-size-k-and-avg-greater-or-equal-to-threshold.cpp
+        neetcode/3-sliding-window/medium/num-of-sub-arr-of-size-k-and-avg-greater-or-equal-to-threshold/num-of-sub-arr-of-size-k-and-avg-greater-or-equal-to-threshold.h
+        neetcode/3-sliding-window/medium/longest-substring-without-repeating-chars/longest-substring-without-repeating-chars.cpp
+        neetcode/3-sliding-window/medium/longest-substring-without-repeating-chars/longest-substring-without-repeating-chars.h
+        neetcode/3-sliding-window/medium/longest-repeating-char-replacement/longest-repeating-char-replacement.cpp
+        neetcode/3-sliding-window/medium/longest-repeating-char-replacement/longest-repeating-char-replacement.h
+        neetcode/3-sliding-window/medium/permutation-in-string/permutation-in-string.cpp
+        neetcode/3-sliding-window/medium/permutation-in-string/permutation-in-string.h
 )
