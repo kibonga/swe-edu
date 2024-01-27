@@ -5,7 +5,7 @@
 //#include "neetcode/1-arrays-and-hashing/medium/revise/"
 //#include "neetcode/1-arrays-and-hashing/medium/"
 //#include "neetcode/2-two-pointers/medium/num-of-subseq-satisfying-given-sum-cond/num-of-subseq-satisfying-given-sum-cond.h"
-#include "neetcode/3-sliding-window/medium/permutation-in-string/permutation-in-string.h"
+#include "neetcode/3-sliding-window/medium/find-k-closest-elements/find-k-closest-elements.h"
 
 int main() {
 //    runRemoveElementExample();
@@ -14,6 +14,6 @@ int main() {
 //    runGridGameExample();
 //    runFindTheIndexOfTheFirstOccurrenceInAStringExample();
 //    runNumberOfSubsequencesThatSatisfyTheGivenSumConditionExample();
-    runPermutationInStringMediumExample();
+    runFindClosestElementsMediumExample();
 }
 

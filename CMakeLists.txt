@@ -235,4 +235,16 @@ add_executable(swe_edu main.cpp
         neetcode/3-sliding-window/medium/longest-repeating-char-replacement/longest-repeating-char-replacement.h
         neetcode/3-sliding-window/medium/permutation-in-string/permutation-in-string.cpp
         neetcode/3-sliding-window/medium/permutation-in-string/permutation-in-string.h
+        neetcode/3-sliding-window/medium/freq-of-most-freq-element/freq-of-most-freq-element.cpp
+        neetcode/3-sliding-window/medium/freq-of-most-freq-element/freq-of-most-freq-element.h
+        neetcode/3-sliding-window/medium/fruit-into-basket/fruit-into-basket.cpp
+        neetcode/3-sliding-window/medium/fruit-into-basket/fruit-into-basket.h
+        neetcode/3-sliding-window/medium/max-num-of-vowels-in-substr/max-num-of-vowels-in-substr.cpp
+        neetcode/3-sliding-window/medium/max-num-of-vowels-in-substr/max-num-of-vowels-in-substr.h
+        neetcode/3-sliding-window/medium/min-num-of-flips-to-make-binary-str-alternating/min-num-of-flips-to-make-binary-str-alternating.cpp
+        neetcode/3-sliding-window/medium/min-num-of-flips-to-make-binary-str-alternating/min-num-of-flips-to-make-binary-str-alternating.h
+        neetcode/3-sliding-window/medium/min-size-subarr-sum/min-size-subarr-sum.cpp
+        neetcode/3-sliding-window/medium/min-size-subarr-sum/min-size-subarr-sum.h
+        neetcode/3-sliding-window/medium/find-k-closest-elements/find-k-closest-elements.cpp
+        neetcode/3-sliding-window/medium/find-k-closest-elements/find-k-closest-elements.h
 )
