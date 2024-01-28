@@ -247,4 +247,10 @@ add_executable(swe_edu main.cpp
         neetcode/3-sliding-window/medium/min-size-subarr-sum/min-size-subarr-sum.h
         neetcode/3-sliding-window/medium/find-k-closest-elements/find-k-closest-elements.cpp
         neetcode/3-sliding-window/medium/find-k-closest-elements/find-k-closest-elements.h
+        neetcode/4-stack/fundamentals/valid-parentheses/valid-parentheses.cpp
+        neetcode/4-stack/fundamentals/valid-parentheses/valid-parentheses.h
+        neetcode/4-stack/fundamentals/baseball-game/baseball-game.cpp
+        neetcode/4-stack/fundamentals/baseball-game/baseball-game.h
+        neetcode/4-stack/fundamentals/implement-stack-using-queues/implement-stack-using-queues.cpp
+        neetcode/4-stack/fundamentals/implement-stack-using-queues/implement-stack-using-queues.h
 )
