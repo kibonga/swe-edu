@@ -253,4 +253,24 @@ add_executable(swe_edu main.cpp
         neetcode/4-stack/fundamentals/baseball-game/baseball-game.h
         neetcode/4-stack/fundamentals/implement-stack-using-queues/implement-stack-using-queues.cpp
         neetcode/4-stack/fundamentals/implement-stack-using-queues/implement-stack-using-queues.h
+        neetcode/4-stack/medium/min-stack/min-stack.h
+        neetcode/4-stack/medium/min-stack/min-stack.cpp
+        neetcode/4-stack/medium/eval-reverse-polish-notation/eval-reverse-polish-notation.cpp
+        neetcode/4-stack/medium/eval-reverse-polish-notation/eval-reverse-polish-notation.h
+        neetcode/4-stack/medium/removing-stars-from-string/removing-stars-from-string.cpp
+        neetcode/4-stack/medium/removing-stars-from-string/removing-stars-from-string.h
+        neetcode/4-stack/medium/validate-stack-seq/validate-stack-seq.cpp
+        neetcode/4-stack/medium/validate-stack-seq/validate-stack-seq.h
+        neetcode/4-stack/medium/generate-parentheses/generate-parentheses.cpp
+        neetcode/4-stack/medium/generate-parentheses/generate-parentheses.h
+        neetcode/4-stack/medium/asteroid-collision/asteroid-collision.cpp
+        neetcode/4-stack/medium/asteroid-collision/asteroid-collision.h
+        neetcode/4-stack/medium/online-stock-span/online-stock-span.cpp
+        neetcode/4-stack/medium/online-stock-span/online-stock-span.h
+        neetcode/4-stack/medium/daily-temperatures/daily-temperatures.cpp
+        neetcode/4-stack/medium/daily-temperatures/daily-temperatures.h
+        neetcode/4-stack/medium/car-fleet/car-fleet.cpp
+        neetcode/4-stack/medium/car-fleet/car-fleet.h
+        neetcode/4-stack/medium/simplify-path/simplify-path.cpp
+        neetcode/4-stack/medium/simplify-path/simplify-path.h
 )

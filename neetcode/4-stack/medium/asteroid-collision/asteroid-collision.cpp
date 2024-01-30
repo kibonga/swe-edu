@@ -1,35 +1,32 @@
 #include "asteroid-collision.h"
 
 vector<int> asteroidCollisionMedium(vector<int> &a) {
-    vector<int> v;
-    int n = a.size();
-    int curr;
+    vector<int> r;
+    int l;
 
-    for (int i = n - 1; i >= 0; i--) {
-        curr = a[i];
-        if (v.empty() || curr < 0 || (curr > 0 && v.back() > 0)) {
-            v.push_back(curr);
+    for(int i=0; i<a.size(); i++) {
+        if(r.empty() || a[i] > 0) {
+            r.push_back(a[i]);
             continue;
         }
 
-        // Collision (curr is greater than 0)
-        int x = v.back(); // smaller than 0
-        while(!v.empty() && curr > abs(x)) {
-            v.pop_back();
-            x = v.back();
+        while(!r.empty() && r.back() > 0 && r.back() < abs(a[i])) {
+            r.pop_back();
         }
-        if(curr == abs(x)) {
-            v.pop_back();
+
+        if(r.empty() || r.back() < 0) {
+            r.push_back(a[i]);
             continue;
         }
-        if(curr > abs(x)) {
-            v.push_back(curr);
+
+        if(r.back() == abs(a[i])) {
+            r.pop_back();
+            continue;
         }
+
     }
 
-    reverse(v.begin(), v.end());
-
-    return v;
+    return r;
 }
 
 void runAsteroidCollisionMediumExample() {
