@@ -5,7 +5,8 @@
 //#include "neetcode/1-arrays-and-hashing/medium/revise/"
 //#include "neetcode/1-arrays-and-hashing/medium/"
 //#include "neetcode/2-two-pointers/medium/num-of-subseq-satisfying-given-sum-cond/num-of-subseq-satisfying-given-sum-cond.h"
-#include "neetcode/4-stack/medium/daily-temperatures/daily-temperatures.h"
+//#include "neetcode/4-stack/medium/daily-temperatures/daily-temperatures.h"
+#include "neetcode/5-binary-search/fundamentals/binary-search/binary-search.h"
 
 int main() {
 //    runRemoveElementExample();
@@ -14,5 +15,5 @@ int main() {
 //    runGridGameExample();
 //    runFindTheIndexOfTheFirstOccurrenceInAStringExample();
 //    runNumberOfSubsequencesThatSatisfyTheGivenSumConditionExample();
-    runDailyTemperaturesMediumExample();
+    runBinarySearchFundamentalsExample();
 }

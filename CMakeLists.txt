@@ -273,4 +273,8 @@ add_executable(swe_edu main.cpp
         neetcode/4-stack/medium/car-fleet/car-fleet.h
         neetcode/4-stack/medium/simplify-path/simplify-path.cpp
         neetcode/4-stack/medium/simplify-path/simplify-path.h
+        neetcode/5-binary-search/fundamentals/binary-search/binary-search.cpp
+        neetcode/5-binary-search/fundamentals/binary-search/binary-search.h
+        neetcode/5-binary-search/fundamentals/search-insert-position/search-insert-position.cpp
+        neetcode/5-binary-search/fundamentals/search-insert-position/search-insert-position.h
 )
